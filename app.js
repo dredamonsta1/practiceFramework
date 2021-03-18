@@ -1,2 +1,2 @@
 let g = G$(Andre, Will);
-console.log(g);
+g.greet().setLang('es').greet(true);
